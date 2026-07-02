@@ -38,6 +38,7 @@ Designed as a complete end-to-end solution, the project integrates edge computin
 ### Hardware
 
 * Renesas QC-BEKITPOCZ Development Platform
+* PMOD HS001 (temp & humidity), ZMOD 4510 (AQI)
 
 ### Software
 
@@ -51,6 +52,10 @@ Designed as a complete end-to-end solution, the project integrates edge computin
 * Random Forest Classifier
 * ULSTM-based temporal prediction
 * Dynamic risk scaling algorithm
+
+### Frontend
+
+* Streamlit-based GUI
 
 ### Cloud & Communication
 
